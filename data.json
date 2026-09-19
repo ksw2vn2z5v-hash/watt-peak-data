@@ -1,1 +1,42 @@
-{}
+{
+  "usage_point_id": "24356584604950",
+  "start": "2026-09-12",
+  "end": "2026-09-19",
+  "quality": "BRUT",
+  "reading_type": {
+    "unit": "Wh",
+    "measurement_kind": "energy",
+    "aggregate": "sum",
+    "measuring_period": "P1D"
+  },
+  "interval_reading": [
+    {
+      "value": "4712",
+      "date": "2026-09-12"
+    },
+    {
+      "value": "8484",
+      "date": "2026-09-13"
+    },
+    {
+      "value": "8217",
+      "date": "2026-09-14"
+    },
+    {
+      "value": "6496",
+      "date": "2026-09-15"
+    },
+    {
+      "value": "9457",
+      "date": "2026-09-16"
+    },
+    {
+      "value": "4996",
+      "date": "2026-09-17"
+    },
+    {
+      "value": "11363",
+      "date": "2026-09-18"
+    }
+  ]
+}}
